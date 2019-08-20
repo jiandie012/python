@@ -142,7 +142,7 @@ if a<10:
          print (e.message)
 '''
 
-'''
+
 from contextlib import contextmanager
 @contextmanager
 def closing(thing):
@@ -161,7 +161,7 @@ with closing(Some("some")) as res:
     print(res.name)
     
     
-'''
+
 
 f =open('/home/liugaojian/Desktop/python.txt')
 str=f.read()
