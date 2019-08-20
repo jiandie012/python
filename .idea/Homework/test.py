@@ -162,8 +162,8 @@ with closing(Some("some")) as res:
     
     
 '''
-'''
+
 f =open('/home/liugaojian/Desktop/python.txt')
 str=f.read()
 print(f)
-'''
+
