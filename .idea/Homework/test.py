@@ -1,5 +1,5 @@
 '''
-def dis(*val):     #def定义函数，#*默认是list，**是kv对
+def dis(*val):     #def定义函数，*默认是list，**是kv对
     for i in val:
         print(i)
 
