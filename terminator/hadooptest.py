@@ -28,7 +28,7 @@ def rcmd(host,passwd,cmd,port,name):
     # Print the output
     print(lines)
 
-if __name__ == __main__:
+if __name__ == "__main__":
     host = "test.rebex.net"
     port = 22
     name = "demo"
